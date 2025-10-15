@@ -8,8 +8,3 @@ Sistema full-stack para procesamiento automatizado de imágenes TAC usando redes
 
 ## Tecnologías
 Python, TensorFlow, U-Net, Django REST Framework, React, PyDICOM
-
-## Instalación
-```bash
-pip install -r requirements.txt
-python manage.py runserver
